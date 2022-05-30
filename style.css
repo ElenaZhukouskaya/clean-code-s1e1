@@ -131,12 +131,11 @@
   align-items: center;
 }
 
-/* .task-item__checkbox,
+.task-item__checkbox,
 .task-item__label,
 .task-item__input,
 .task-item__btn-edit,
-.task-item__btn-delete */
-.task-item > * {
+.task-item__btn-delete {
   vertical-align: middle;
 }
 
